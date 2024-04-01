@@ -24,4 +24,4 @@ _**Shadow of Man chosen**_ - In his dying words, the man begs his God (or calls 
 
 _**Assassin of Kings chosen**_ - The guards notice the man's strange behavior and think that there is still someone in the house. After a brief dialog exchange, a guard walks inside the house. The man commes out of hiding, running for his life. During this section the player needs to flee to the woods, yet the village is not locked to him and, if played carefully, he may find a knife in the village church.
 
-_**Breaker of Souls chosen** _ - The guards notice a small hiding hole near one of the houses and send one of them to investigate. Having caught the player, They knock him out with their swords and take him to Silverkeep's prison, located at the lover levels of the city
+_**Breaker of Souls chosen** _ - The guards notice a small hiding hole near one of the houses and send one of them to investigate. Having caught the player, They knock him out with their swords and take him to Silverkeep's prison, located at the lower levels of the city. The training level is skipped for this difficulty.
