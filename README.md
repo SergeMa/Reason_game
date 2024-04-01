@@ -19,6 +19,7 @@ As the city of Silverkeep, Slirean Empire, was needed more space to grow, the ci
 
 Player character -> The person hiding.
 MAIN GAME DIFFICULTY SELECTION SCREEN: 
+
 _**Shadow of Man chosen**_ - In his dying words, the man begs his God (or calls a fog to come to the village) to hide whoever is hiding. The guards notice him speaking, yet they are unable to understand what he is saying. As the guards leave to report to the general in the city, a few stay in the village of Coalfell. During this section the player needs to go to the village church and pray to his God one last time. A voice answers him, stating to take everything offered by the villagers. He takes fome food and a knife. The person never understood why it was there, but now, he looks at it as a piece of his survival. The person Leaves the village for the woods.
 
 _**Assassin of Kings chosen**_ - The guards notice the man's strange behavior and think that there is still someone in the house. After a brief dialog exchange, a guard walks inside the house. The man commes out of hiding, running for his life. During this section the player needs to flee to the woods, yet the village is not locked to him and, if played carefully, he may find a knife in the village church.
